@@ -1,6 +1,7 @@
 # shopping
 
-cd
+cd 
+使用mySQL
 
 ## Project setup
 
